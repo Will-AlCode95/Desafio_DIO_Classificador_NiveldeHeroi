@@ -55,7 +55,7 @@ O resultado será exibido no console
 
 `console.log(classificarHeroi("Frodo", 2500));`
 
-Saída:
+### 🚪 Saída:
 
 O Herói de nome Aragorn está no nível de Ouro
 
@@ -63,6 +63,6 @@ O Herói de nome Gandalf está no nível de Radiante
 
 O Herói de nome Frodo está no nível de Prata
 
+### 🤝 Contribuições
 
-🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
